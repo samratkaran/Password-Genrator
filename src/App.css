@@ -1,21 +1,33 @@
-.main-div{
+.main-div {
   background-color: antiquewhite;
   height: 100vh;
 }
-.input-div{
+.input-div {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 5rem;
-
 }
-input{
+.input-div input{
   width: 20rem;
   height: 3rem;
 }
-button{
-  width: 5rem;
-  height: 3rem;
-  
+.all-content-div {
+  width: 29%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
 }
 
+
+button {
+  width: 5rem;
+  height: 3rem;
+}
+.checkbox-range {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 7rem;
+  align-items: space-between;
+}
