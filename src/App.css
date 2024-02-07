@@ -1,0 +1,21 @@
+.main-div{
+  background-color: antiquewhite;
+  height: 100vh;
+}
+.input-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+
+}
+input{
+  width: 20rem;
+  height: 3rem;
+}
+button{
+  width: 5rem;
+  height: 3rem;
+  
+}
+
